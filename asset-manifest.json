@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-budget-app/static/css/main.52d4d560.chunk.css",
+    "main.js": "/react-budget-app/static/js/main.0b237c48.chunk.js",
+    "main.js.map": "/react-budget-app/static/js/main.0b237c48.chunk.js.map",
+    "runtime-main.js": "/react-budget-app/static/js/runtime-main.7114fd3c.js",
+    "runtime-main.js.map": "/react-budget-app/static/js/runtime-main.7114fd3c.js.map",
+    "static/js/2.560362c7.chunk.js": "/react-budget-app/static/js/2.560362c7.chunk.js",
+    "static/js/2.560362c7.chunk.js.map": "/react-budget-app/static/js/2.560362c7.chunk.js.map",
+    "index.html": "/react-budget-app/index.html",
+    "static/css/main.52d4d560.chunk.css.map": "/react-budget-app/static/css/main.52d4d560.chunk.css.map",
+    "static/js/2.560362c7.chunk.js.LICENSE.txt": "/react-budget-app/static/js/2.560362c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7114fd3c.js",
+    "static/js/2.560362c7.chunk.js",
+    "static/css/main.52d4d560.chunk.css",
+    "static/js/main.0b237c48.chunk.js"
+  ]
+}
